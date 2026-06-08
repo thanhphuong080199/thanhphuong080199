@@ -5,10 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhphuong080199" alt="thanhphuong080199" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on [{place_holder}]({place_holder})
+
+- 🌱 I’m currently learning **{place_holder}**
+
+- 👯 I’m looking to collaborate on [{place_holder}]({place_holder})
+
+- 🤝 I’m looking for help with [{place_holder}]({place_holder})
+
+- 👨‍💻 All of my projects are available at [{place_holder}]({place_holder})
+
+- 📝 I regularly write articles on [{place_holder}]({place_holder})
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **phuong011999vn@gmail.com**
+
+- 📄 Know about my experiences [{place_holder}]({place_holder})
+
+- ⚡ Fun fact **{place_holder}**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.topcoder.com/members/75000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="75000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
