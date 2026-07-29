@@ -71,3 +71,7 @@ Senior Software Engineer, professional deleter of unnecessary code. My favorite 
 ![Profile views](https://komarev.com/ghpvc/?username=thanhphuong080199&color=orange)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=thanhphuong080199&theme=dark)
+
+---
+
+<sub>✨ Want a profile like this? Generate your own ASCII portrait README at [ascii-profile-readme-generator.vercel.app](https://ascii-profile-readme-generator.vercel.app/)</sub>
