@@ -49,6 +49,10 @@ Senior Software Engineer, professional deleter of unnecessary code. My favorite 
 - 💬 Ask me about **Java amd SQL**
 - ⚡ Fun fact: Matcha is better than coffee !!!
 
+<a href="https://github.com/thanhphuong080199/typescript-monorepo-skeleton">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhphuong080199&repo=typescript-monorepo-skeleton&theme=dark" />
+</a>
+
 ## 🧰 Tech Stack
 
 <p>
